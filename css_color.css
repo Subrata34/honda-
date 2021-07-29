@@ -1,5 +1,5 @@
 body{
-font-family: 'Poppins', sans-serif;
+     font-family: 'Poppins', sans-serif;
 }
 .background_color_header{
 background-color:#264653;
@@ -7,3 +7,10 @@ background-color:#264653;
 .color-head{
      color:#E76F51;
 }
+.image-1 {
+     filter:  invert(20%);
+     -webkit-filter:  invert(20%);
+   }
+   .extra-color{
+ color:#E0E0E0 ;
+   }
