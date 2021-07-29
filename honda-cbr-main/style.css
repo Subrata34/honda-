@@ -1,4 +1,6 @@
 body{ 
     font-family: 'Poppins', sans-serif;
-    font-family: 'Quicksand', sans-serif;
+}
+.background_color_header{
+    background-color:#264653;
 }
